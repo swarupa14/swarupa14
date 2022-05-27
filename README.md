@@ -73,8 +73,7 @@ As a software engineer , I enjoy my obsessive attention to details and my passio
 
 ## 📈 Github Stats
 <p align="center">
-<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa14&bg_color=21223e&title_color=ffdd00&text_color=fff&show_icons=true&locale=en&layout=compact" alt="swarupa14" />
-  
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa14&bg_color=21223e&title_color=ffdd00&text_color=fff&show_icons=true&locale=en&layout=compact" alt="swarupa14" />  
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=swarupa14&bg_color=21223e&title_color=ffdd00&text_color=fff&show_icons=true&locale=en" alt="swarupa14" />
 </p>
 <p align="center">
