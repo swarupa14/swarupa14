@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/46885098/170655449-11b34b2c-6755-4fff-b150-6098d2983791.gif"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupa14&label=Profile%20views&color=2EC866&style=flat" alt="swarupa14" /> </p>
 
 <p align="center">
 
